@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Math
+|  |
+| ------- |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 <!---LeetCode Topics End-->
