@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0509-fibonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/1523-count-odd-numbers-in-an-interval-range) |
