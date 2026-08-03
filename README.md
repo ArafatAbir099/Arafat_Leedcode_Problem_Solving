@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## String
 |  |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0509-fibonacci-number) |
+## Sorting
+|  |
+| ------- |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 <!---LeetCode Topics End-->
