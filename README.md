@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2427-number-of-common-factors](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Dynamic Programming
 |  |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/2427-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
