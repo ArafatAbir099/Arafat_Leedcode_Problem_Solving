@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0412-fizz-buzz) |
+| [1108-defanging-an-ip-address](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/3110-score-of-a-string) |
 ## Simulation
