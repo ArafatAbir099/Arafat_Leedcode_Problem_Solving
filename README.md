@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/3099-harshad-number) |
 ## Dynamic Programming
 |  |
