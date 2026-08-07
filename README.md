@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1470-shuffle-the-array](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/1470-shuffle-the-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/2114-maximum-number-of-words-found-in-sentences) |
