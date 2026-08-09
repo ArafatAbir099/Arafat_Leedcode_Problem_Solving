@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Math
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/2427-number-of-common-factors) |
 ## Prefix Sum
