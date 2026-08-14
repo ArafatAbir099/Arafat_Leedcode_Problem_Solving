@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0509-fibonacci-number) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/2485-find-the-pivot-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
