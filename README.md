@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0217-contains-duplicate) |
 | [1470-shuffle-the-array](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/1470-shuffle-the-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0217-contains-duplicate) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Enumeration
 |  |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0344-reverse-string) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
