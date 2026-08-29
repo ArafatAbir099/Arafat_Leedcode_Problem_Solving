@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0217-contains-duplicate) |
 | [1470-shuffle-the-array](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/1470-shuffle-the-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0383-ransom-note) |
