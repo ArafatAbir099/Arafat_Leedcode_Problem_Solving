@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0217-contains-duplicate) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1470-shuffle-the-array](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/1470-shuffle-the-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0383-ransom-note) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
