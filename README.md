@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/1470-shuffle-the-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2413-smallest-even-multiple](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/2427-number-of-common-factors) |
