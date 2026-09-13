@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ArafatAbir099/Arafat_Leedcode_Problem_Solving/tree/master/1346-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
